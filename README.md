@@ -6,9 +6,7 @@ Olá! 👋
 
 Bem vindo(a) ao meu perfil GitHub :)
 
-Sou engenheira mecânica apaixonada por dados e gestão estratégica :)
-
-Com +4 anos de experiência nas áreas estratégicas e de controle de processos produtivos do polo de duas rodas. Atualmente estou me especializando em análise de dados e business intelligence, com um MBA em andamento em Business Intelligence pelo IGTI.
+Sou Harumy, engenheira com +4 anos de experiência nas áreas estratégicas e de controle de processos produtivos. Atualmente estou finalizando duas especializações, uma em Business Intelligence pela XP Educação e outra em Gestão de Projetos e Processos pelo IPOG.
 
 Durante minha trajetória, trabalhei gerando insights para as áreas de negócios, atuando desde a obtenção dos dados de processos, passando pela análise crítica e exploratória, até o desenvolvimento de dashboards para controles de KPIs de performance, desde o nível estratégico até o operacional.
 
@@ -22,7 +20,7 @@ A partir dessa experiência multidisciplinar, desenvolvi mentalidade data-driven
 
 👩‍💻 Linguagens:
 
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 
 ⚡ Database:
 
@@ -30,7 +28,7 @@ A partir dessa experiência multidisciplinar, desenvolvi mentalidade data-driven
 
 💻 IDE:
 
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" /> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 
 📊 Analytics:
 
@@ -38,7 +36,7 @@ A partir dessa experiência multidisciplinar, desenvolvi mentalidade data-driven
 
 👨‍💻 Office:
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" /> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 
 🖍 Design:
 
@@ -50,4 +48,4 @@ A partir dessa experiência multidisciplinar, desenvolvi mentalidade data-driven
 
 Most Used Languages:
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={harumy-yokota}
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}" />
