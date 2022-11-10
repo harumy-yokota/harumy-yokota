@@ -18,30 +18,15 @@ A partir dessa experiência multidisciplinar, desenvolvi mentalidade data-driven
 
 ## Habilidades
 
-👩‍💻 Linguagens:
+- 🔍 Análise de Dados: ETL | Data modeling | OLAP | Power BI | Excel | Tableau | RStudio | Business Analytics and Development | Pentaho
+- 👩‍💻 Linguagens: SQL | R | DAX | Markdown | Python
+- ⚡ Bancos de Dados: MySQL | PostgreSQL
+- 💻 Bibliotecas e Frameworks: Jupyter
+- 📊 Visualização: Figma | Power BI | Tableau
+- 🧠 Soft Skills: Capacidade analítica | Gestão de negócios | Metodologia ágil | Gestão de desempenho de projeto | Visualização de dados | Storytelling | Inglês fluente
 
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 
-⚡ Database:
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+## Projetos
 
-💻 IDE:
-
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" /> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-
-📊 Analytics:
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-
-👨‍💻 Office:
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" /> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-
-🖍 Design:
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-🌱 Em desenvolvimento: 
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+- 
