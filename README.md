@@ -12,7 +12,7 @@ Durante minha trajetória, trabalhei gerando insights para as áreas de negócio
 
 A partir dessa experiência multidisciplinar, desenvolvi mentalidade data-driven e habilidades críticas para gestão de projetos, planejamento estratégico, desenvolvimento de KPIs de desempenho e data storytelling.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harumy-yokota/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harumy-yokota/)
 
 
 
