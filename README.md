@@ -18,13 +18,15 @@ A partir dessa experiência multidisciplinar, desenvolvi mentalidade data-driven
 
 ## Habilidades
 
-🔍 Análise de Dados: ETL | Data modeling | OLAP | Power BI | Excel | Tableau | RStudio | Business Analytics and Development | Pentaho  
+🔍 Data Science: ETL | OLAP | Análise de Dados | Inteligência de Negócios | Estatística | Modelagem e Visualização de Dados  
+⚙️ Softwares & IDEs: Looker Studio (Google Data Studio) | Power BI | Tableau | Excel | Pentaho | RStudio | Jupyter | Figma  
 👩‍💻 Linguagens: SQL | R | DAX | Markdown | Python  
-⚡ Bancos de Dados: MySQL | PostgreSQL  
-💻 Bibliotecas e Frameworks: Jupyter | Pandas | Scikit | Anaconda 
-📊 Visualização: Figma | Power BI | Tableau 
-Idiomas: Inglês
-🧠 Soft Skills: Capacidade analítica | Gestão de negócios | Metodologia ágil | Gestão de desempenho de projeto | Visualização de dados | Storytelling | Inglês fluente
+⚡ Bancos de Dados: MySQL | PostgreSQL | SQLite  
+✏️ Office: Notion | Trello | Overleaf  
+💻 Bibliotecas & Frameworks: Pandas | NumPy | Anaconda | Matplotlib | Plotly  
+📄 Controle de Versão: Git | GitHub | Bitbucket  
+🗨️ Idiomas: Português nativo | Inglês fluente | Japonês principiante  
+🧠 Soft Skills: Capacidade analítica | Gestão de negócios | Metodologia ágil | Gestão de projetos | Storytelling | Planejamento Estratégico
 
 
 
