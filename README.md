@@ -6,7 +6,7 @@ Olá! 👋
 
 Bem vindo(a) ao meu perfil GitHub :)
 
-Sou Harumy, engenheira com +4 anos de experiência nas áreas estratégicas e de controle de processos produtivos. Atualmente estou finalizando duas especializações, uma em Business Intelligence pela XP Educação e outra em Gestão de Projetos e Processos pelo IPOG.
+Sou Harumy, engenheira com mais de 5 anos de experiência nas áreas estratégicas e de controle de processos produtivos. Atualmente estou finalizando duas especializações, uma em Business Intelligence pela XP Educação e outra em Gestão de Projetos e Processos pelo IPOG.
 
 Durante minha trajetória, trabalhei gerando insights para as áreas de negócios, atuando desde a obtenção dos dados de processos, passando pela análise crítica e exploratória, até o desenvolvimento de dashboards para controles de KPIs de performance, desde o nível estratégico até o operacional.
 
@@ -32,5 +32,5 @@ A partir dessa experiência multidisciplinar, desenvolvi mentalidade data-driven
 
 ## Projetos
 
-- [BI para Triagem Hospitalar](https://github.com/harumy-yokota/BI-Triagem-Hospitalar) | `MySQL`, `SQL`, `Power BI`, `DAX`
+- [BI para Triagem Hospitalar](https://github.com/harumy-yokota/BI-Triagem-Hospitalar) | `MySQL`, `SQL`, `Power BI`, `DAX`, `Power Apps`
 - [Indians Diabetes Analysis](https://github.com/harumy-yokota/Indians-Diabetes-Analysis) | `SQLite`, `Python`, `SQL`, `Jupyter Notebook`
