@@ -19,7 +19,7 @@ A partir dessa experiência multidisciplinar, desenvolvi mentalidade data-driven
 ## Habilidades
 
 🔍 Data Science: ETL | OLAP | Análise de Dados | Inteligência de Negócios | Estatística | Modelagem e Visualização de Dados  
-⚙️ Softwares & IDEs: Looker Studio (Google Data Studio) | Power BI | Tableau | Excel | Pentaho | RStudio | Jupyter | Figma  
+⚙️ Softwares, IDEs & Aplicações: Looker Studio (Google Data Studio) | Power BI | Tableau | Excel | Pentaho | RStudio | Jupyter | Figma | Power Apps  
 👩‍💻 Linguagens: SQL | R | DAX | Markdown | Python  
 ⚡ Bancos de Dados: MySQL | PostgreSQL | SQLite  
 ✏️ Office: Notion | Trello | Overleaf  
