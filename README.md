@@ -32,4 +32,5 @@ A partir dessa experiência multidisciplinar, desenvolvi mentalidade data-driven
 
 ## Projetos
 
-- [Projeto Indians Analysis](https://github.com/harumy-yokota/Indians-Diabetes-Analysis) | `SQLite`, `Python`, `SQL`, `Jupyter Notebook`
+- [BI para Triagem Hospitalar](https://github.com/harumy-yokota/BI-Triagem-Hospitalar) | `MySQL`, `SQL`, `Power BI`, `DAX`
+- [Indians Diabetes Analysis](https://github.com/harumy-yokota/Indians-Diabetes-Analysis) | `SQLite`, `Python`, `SQL`, `Jupyter Notebook`
